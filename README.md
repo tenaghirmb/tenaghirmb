@@ -7,7 +7,7 @@
 ---
 
 ### 🎮 Realtime Metrics
-![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg?v=1)
 
 
 ---
