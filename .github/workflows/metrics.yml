@@ -55,7 +55,7 @@ jobs:
 
       # 2. 准备 Python 环境 (为了运行 Gemini 脚本)
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -110,10 +110,6 @@ jobs:
 
       # 4. 将更改推送到仓库
       - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m 'docs: update AI system summary [skip ci]' || exit 0
-          git push
-          
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "docs: update AI system summary [skip ci]"
