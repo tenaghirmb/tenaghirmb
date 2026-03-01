@@ -32,8 +32,8 @@ jobs:
           plugin_languages_ignored: html, css, tex
           plugin_languages_colors: rainbow
           plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 60
+          plugin_languages_recent_load: 10
+          plugin_languages_recent_days: 1
           plugin_languages_limit: 8
           plugin_languages_skipped: github-actions[bot]
 
