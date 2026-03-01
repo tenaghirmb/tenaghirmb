@@ -35,7 +35,7 @@ jobs:
           plugin_languages_recent_load: 10
           plugin_languages_recent_days: 1
           plugin_languages_limit: 8
-          plugin_languages_skipped: github-actions[bot]
+          plugin_languages_skipped: tenaghirmb, technical-arsenal, kube-cron-restart-controller
 
           plugin_habits: no
           plugin_habits_from: 200
