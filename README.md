@@ -27,15 +27,11 @@
 
 ---
 
-### 🍿 How to reach me
-<p align="center">
-  <a href="mailto:tenaghirmb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tenaghirmb">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</p>
+### 👀 How to reach me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tenaghirmb@gmail.com)
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/tenaghirmb)
+
 
 ---
 
