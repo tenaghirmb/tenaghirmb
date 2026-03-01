@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: tenaghirmb
           template: classic
-          base: header, repositories
+          base: header
           plugins_errors_fatal: no
           plugin_music: no
           plugin_music_provider: spotify
@@ -28,13 +28,14 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_TOKENS }}"
           plugin_music_limit: 4
           plugin_music_played_at: yes
-          plugin_languages: no
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: tenagirmb
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: html, css, tex
+          plugin_languages_skipped: HISBs
           plugin_languages_colors: rainbow
-          plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 500
-          plugin_languages_recent_days: 60
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_habits: no
           plugin_habits_from: 200
@@ -47,11 +48,11 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages
+          plugin_wakatime_sections: time, projects, languages
           plugin_wakatime_limit: 5
           plugin_wakatime_user: current
 
-          config_order: base.header, isocalendar, languages, habits, wakatime, music
+          config_order: base.header, isocalendar, wakatime, languages, habits, music
 
       # 2. 准备 Python 环境 (为了运行 Gemini 脚本)
       - name: Checkout repository
@@ -77,6 +78,7 @@ jobs:
           import re
           import cairosvg
           import io
+          import subprocess
           from PIL import Image
 
           genai.configure(api_key=os.environ['GEMINI_API_KEY'])
