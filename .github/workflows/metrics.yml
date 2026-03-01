@@ -102,7 +102,7 @@ jobs:
               Write a 2-sentence SYSTEM ANALYSIS. 
               Tone: Cyberpunk, sharp, highly analytical. 
               Identify if my actual commits align with the data shown in the image (e.g., language shifts or activity bursts). 
-              Start with em.. and keep it under 50 words. No emojis; No emojis; No emojis!!!
+              Start with em.. and keep it under 50 words. Absolutely no emojis!
               '''
               
               # 同时发送 [文字, 图片]
