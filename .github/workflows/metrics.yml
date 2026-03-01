@@ -117,7 +117,7 @@ jobs:
               Write a 2-sentence SYSTEM ANALYSIS. 
               Tone: Professional, sharp, and slightly ominous cyberpunk.
               If the 'night_owl' context is positive, mention 'nocturnal synchronization' or 'post-midnight logic injection'.
-              Focus on technical trajectory. Start with SYSTEM ANALYSIS: and keep it under 50 words.
+              Focus on technical trajectory. Start with em.. and keep it under 50 words.
               '''
               
               response = model.generate_content([prompt, img])
