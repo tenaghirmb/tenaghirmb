@@ -20,9 +20,7 @@ jobs:
           config_timezone: Asia/Shanghai
 
           plugin_weather: yes
-          plugin_weather_location: Jiaxing
-          plugin_weather_format: desc
-          plugin_weather_units: metric
+          plugin_weather_location: Shanghai
 
           plugin_music: yes
           plugin_music_provider: spotify
