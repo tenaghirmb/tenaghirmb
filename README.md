@@ -1,9 +1,13 @@
+# Bonjour👋🏻
+
+![](https://komarev.com/ghpvc/?username=tenaghirmb&abbreviated=true)
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+TENAG+HIRMB+🦉;A+World-class+Agent;Creating+Wisdoms+and+Mastering+Chaos...;Welcome+to+my+Digital+World🕸️&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+TENAG+HIRMB+🦉;A+World-class+Agent;Creating+Wisdoms+and+Mastering+Chaos...;Welcome+to+my+Digital+World🕸️&theme=monokai" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
 </p>
 
 ---
