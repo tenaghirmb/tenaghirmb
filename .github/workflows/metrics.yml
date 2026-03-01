@@ -55,6 +55,8 @@ jobs:
       # 2. 准备 Python 环境 (为了运行 Gemini 脚本)
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # 确保能读到之前的 commit 历史
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -77,35 +79,47 @@ jobs:
           import cairosvg
           import io
           import subprocess
+          from datetime import datetime
           from PIL import Image
 
           genai.configure(api_key=os.environ['GEMINI_API_KEY'])
           model = genai.GenerativeModel('gemini-3-flash-preview')
 
           try:
-              # --- 获取数据 A: Commit 日志 ---
-              # 获取最近 7 天的 commit (防止 24 小时内没提交导致没数据)
+              # --- 数据维度 1: 最近提交的时间分布 ---
+              # 获取最近 10 次提交的小时数 (00-23)
+              raw_times = subprocess.check_output(['git', 'log', '-10', '--format=%ad', '--date=format:%H']).decode('utf-8').split()
+              hours = [int(h) for h in raw_times] if raw_times else []
+              
+              # 判断是否为深夜战神 (23点 - 5点)
+              night_owl = any(0 <= h <= 5 or h >= 23 for h in hours)
+              time_context = 'Active during standard cycles.'
+              if night_owl:
+                  time_context = 'WARNING: Neural activity peaks during forbidden hours (00:00-05:00). High nocturnal optimization.'
+              
+              # --- 数据维度 2: 最近 7 天的 Commit 内容 ---
               raw_commits = subprocess.check_output(['git', 'log', '--since=\"7 days ago\"', '--pretty=format:%s']).decode('utf-8')
-              commit_data = raw_commits if raw_commits else 'System maintenance and architectural optimization.'
-              # --- 获取数据 B: 可视化图片 ---
+              commit_data = raw_commits if raw_commits else 'Quiet maintenance.'
+              
+              # --- 数据维度 3: 视觉图片 (Metrics SVG) ---
               svg_path = 'github-metrics.svg'
               png_data = cairosvg.svg2png(url=svg_path)
               img = Image.open(io.BytesIO(png_data))
 
-              # --- 深度 Prompt：要求结合两者 ---
+              # --- 深度 Prompt 注入 ---
               prompt = f'''
-              [CONTEXT]
+              [INPUT DATA]
               Recent Commit Logs: {commit_data}
+              Circadian Rhythm Analysis: {time_context}
               
               [INSTRUCTION]
-              Analyze the provided image (my coding stats) and the commit logs above. 
+              You are an advanced Cybernetic System Monitor. Analyze the provided image (metrics) and the input data.
               Write a 2-sentence SYSTEM ANALYSIS. 
-              Tone: Cyberpunk, sharp, highly analytical. 
-              Identify if my actual commits align with the data shown in the image (e.g., language shifts or activity bursts). 
-              Start with em.. and keep it under 50 words. Absolutely no emojis!
+              Tone: Professional, sharp, and slightly ominous cyberpunk.
+              If the 'night_owl' context is positive, mention 'nocturnal synchronization' or 'post-midnight logic injection'.
+              Focus on technical trajectory. Start with SYSTEM ANALYSIS: and keep it under 50 words.
               '''
               
-              # 同时发送 [文字, 图片]
               response = model.generate_content([prompt, img])
               summary = response.text.strip()
               
