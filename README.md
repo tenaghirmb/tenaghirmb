@@ -14,8 +14,20 @@
 ### 🎮 Realtime Metrics
 ![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg?v=1)
 
+---
+
+### ⚡ System Diagnostics
+> [!IMPORTANT]
+> > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
+> ---
 > **Gemini**: 
 > **em.. System detects a singular pulse piercing an otherwise flatlined grid. Logs confirm this activity is superficial metrics maintenance, reflecting a cosmetic refresh rather than a structural shift in development logic.**
+
+---
+
+### 🛠️ Core Modules
+* 📁 [course-programs](https://github.com/tenaghirmb/course-programs) - Legacy logic blocks & academic foundations.
+* 🛰️ [other-project] - Active development node.
 
 ---
 
