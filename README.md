@@ -13,9 +13,7 @@
 ---
 
 ### 📊 Engineering Metrics & Real-time Status
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg" />
-</p>
+![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg)
 
 ---
 
