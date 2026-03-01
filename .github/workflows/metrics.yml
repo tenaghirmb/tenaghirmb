@@ -35,6 +35,7 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 60
           plugin_languages_limit: 8
+          plugin_languages_skipped: github-actions[bot]
 
           plugin_habits: no
           plugin_habits_from: 200
