@@ -14,7 +14,7 @@
 ### 🎮 Realtime Metrics
 ![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg?v=1)
 
-> Gemini: 
+> **Gemini**: 
 > **em.. neural scan detects a terminal flatline terminated by a sudden documentation pulse. Your README logs align with this localized spike, signaling aesthetic maintenance rather than a core logic overhaul. 📉💾**
 
 ---
