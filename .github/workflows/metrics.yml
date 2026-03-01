@@ -117,9 +117,13 @@ jobs:
               
               # 如果 README 里没找到标记，则不替换
               if marker_start in content and marker_end in content:
+                  # 使用 re.escape 会把 ** 变成 \*\*，使其失去正则魔力，变回普通文本
+                  safe_start = re.escape(marker_start)
+                  safe_end = re.escape(marker_end)
+                  pattern = f'{safe_start}.*?{safe_end}'
                   new_content = re.sub(
-                      f'{marker_start}.*?{marker_end}',
-                      f'{marker_start}\\n> **{summary}**\\n\\n{marker_end}',
+                      pattern,
+                      f'{marker_start}\n> **{summary}**\n\n{marker_end}',
                       content,
                       flags=re.DOTALL
                   )
