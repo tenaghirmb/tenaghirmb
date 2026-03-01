@@ -30,7 +30,6 @@ jobs:
           plugin_music_played_at: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: tenagirmb
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: html, css, tex
           plugin_languages_skipped: HISBs
@@ -104,7 +103,7 @@ jobs:
               Write a 2-sentence SYSTEM ANALYSIS. 
               Tone: Cyberpunk, sharp, highly analytical. 
               Identify if my actual commits align with the data shown in the image (e.g., language shifts or activity bursts). 
-              Start with em.. and keep it under 50 words. Emojis preferred.
+              Start with em.. and keep it under 50 words. No emojis.
               '''
               
               # 同时发送 [文字, 图片]
@@ -114,7 +113,7 @@ jobs:
               with open('README.md', 'r', encoding='utf-8') as f:
                   content = f.read()
 
-              marker_start = '> Gemini: '
+              marker_start = '> **Gemini**: '
               marker_end = '---'
               
               # 如果 README 里没找到标记，则不替换
