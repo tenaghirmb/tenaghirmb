@@ -6,21 +6,19 @@
 
 ---
 
-### 🐍 My Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/output/github-contribution-grid-snake.svg)
-
-
----
-
-### 📊 Engineering Metrics & Real-time Status
+### 🏆 Realtime Metrics
 ![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg)
 
 ---
 
-### ⏳ Weekly Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tenaghirmb&theme=tokyonight" alt="WakaTime" />
-</p>
+### 🎮 Weekly Coding Activity
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tenaghirmb&theme=tokyonight)
+
+---
+
+### 🕶️ My Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -29,6 +27,4 @@
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/tenaghirmb)
 
-
----
 
