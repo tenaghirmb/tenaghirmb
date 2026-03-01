@@ -63,7 +63,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install google-generativeai
+        run: pip install google-generativeai cairosvg Pillow
 
       # 3. 运行 Gemini AI 分析并更新 README
       - name: Generate AI Summary
@@ -75,14 +75,38 @@ jobs:
           import os
           import google.generativeai as genai
           import re
+          import cairosvg
+          import io
+          from PIL import Image
 
           genai.configure(api_key=os.environ['GEMINI_API_KEY'])
           model = genai.GenerativeModel('gemini-3-flash-preview')
 
-          prompt = 'Analyze my identity as a professional developer. Write a System Status Report in 2 sentences. The tone: Cyberpunk, analytical, and cold. Start with SYSTEM ANALYSIS: and keep it under 40 words. No emojis.'
-          
           try:
-              response = model.generate_content(prompt)
+              # --- 获取数据 A: Commit 日志 ---
+              # 获取最近 7 天的 commit (防止 24 小时内没提交导致没数据)
+              raw_commits = subprocess.check_output(['git', 'log', '--since=\"7 days ago\"', '--pretty=format:%s']).decode('utf-8')
+              commit_data = raw_commits if raw_commits else 'System maintenance and architectural optimization.'
+              # --- 获取数据 B: 可视化图片 ---
+              svg_path = 'github-metrics.svg'
+              png_data = cairosvg.svg2png(url=svg_path)
+              img = Image.open(io.BytesIO(png_data))
+
+              # --- 深度 Prompt：要求结合两者 ---
+              prompt = f'''
+              [CONTEXT]
+              Recent Commit Logs: {commit_data}
+              
+              [INSTRUCTION]
+              Analyze the provided image (my coding stats) and the commit logs above. 
+              Write a 2-sentence SYSTEM ANALYSIS. 
+              Tone: Cyberpunk, sharp, highly analytical. 
+              Identify if my actual commits align with the data shown in the image (e.g., language shifts or activity bursts). 
+              Start with em.. and keep it under 50 words. Emojis preferred.
+              '''
+              
+              # 同时发送 [文字, 图片]
+              response = model.generate_content([prompt, img])
               summary = response.text.strip()
               
               with open('README.md', 'r', encoding='utf-8') as f:
@@ -101,11 +125,11 @@ jobs:
                   )
                   with open('README.md', 'w', encoding='utf-8') as f:
                       f.write(new_content)
-                  print('AI Summary updated successfully.')
+                  print('Integrated Analysis successful.')
               else:
                   print('Markers not found in README.md')
           except Exception as e:
-              print(f'Error: {e}')
+              print(f'Critical Integration Error: {e}')
           "
 
       # 4. 将更改推送到仓库
