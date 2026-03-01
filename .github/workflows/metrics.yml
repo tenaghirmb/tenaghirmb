@@ -4,8 +4,6 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # 支持手动触发运行
   workflow_dispatch:
-  # 当 main 分支有推送时运行
-  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
