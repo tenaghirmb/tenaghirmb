@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tenaghirmb&abbreviated=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=20&color=2796F7&width=435&lines=Yo!+I'm+TENAG+HIRMB+%F0%9F%A6%89;A+World-class+Agent;Creating+Wisdoms+and+Mastering+Chaos...;Welcome+to+my+Digital+World+%F0%9F%95%B8%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=45&color=2796F7&width=435&lines=Yo!+I'm+TENAG+HIRMB+%F0%9F%A6%89;A+World-class+Agent;Creating+Wisdoms+and+Mastering+Chaos...;Welcome+to+my+Digital+World+%F0%9F%95%B8%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
