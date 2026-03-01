@@ -27,15 +27,14 @@ jobs:
           plugin_music_limit: 4
           plugin_music_played_at: yes
 
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: html, css, tex
           plugin_languages_colors: rainbow
           plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 10
-          plugin_languages_recent_days: 1
+          plugin_languages_recent_load: 500
+          plugin_languages_recent_days: 60
           plugin_languages_limit: 8
-          plugin_languages_skipped: tenaghirmb, technical-arsenal, kube-cron-restart-controller
 
           plugin_habits: no
           plugin_habits_from: 200
@@ -44,18 +43,14 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
 
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: icon
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, languages, editors
+          plugin_wakatime_sections: time, languages
           plugin_wakatime_limit: 5
           plugin_wakatime_user: current
 
-          config_order: base.header, isocalendar, languages, topics, wakatime, music, habits
+          config_order: base.header, isocalendar, languages, habits, wakatime, music
