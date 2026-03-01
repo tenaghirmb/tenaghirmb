@@ -7,7 +7,7 @@
 ---
 
 ### 🐍 My Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
