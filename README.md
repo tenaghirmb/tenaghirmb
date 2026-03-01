@@ -9,7 +9,7 @@
 ### 🎮 Realtime Metrics
 ![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg?v=1)
 
-Gemini: 
+> Gemini: 
 
 ---
 
