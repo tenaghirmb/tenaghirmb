@@ -2,13 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tenaghirmb&abbreviated=true)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+TENAG+HIRMB+🦉;A+World-class+Agent;Creating+Wisdoms+and+Mastering+Chaos...;Welcome+to+my+Digital+World🕸️&theme=monokai" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=20&color=2796F7&width=435&lines=Yo!+I'm+TENAG+HIRMB+%F0%9F%A6%89;A+World-class+Agent;Creating+Wisdoms+and+Mastering+Chaos...;Welcome+to+my+Digital+World+%F0%9F%95%B8%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
