@@ -46,5 +46,5 @@
 ---
 
 ### 🌏 Stats
-![](https://profile-counter.glitch.me/tenaghirmb/count.svg)
+![profile-counter](https://profile-counter.glitch.me/tenaghirmb/count.svg)
 
