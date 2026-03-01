@@ -6,17 +6,13 @@
 
 ---
 
-### 🏆 Realtime Metrics
+### 🎮 Realtime Metrics
 ![Metrics](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/master/github-metrics.svg)
 
----
-
-### 🎮 Weekly Coding Activity
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tenaghirmb&theme=tokyonight)
 
 ---
 
-### 🕶️ My Contribution Snake
+### 🃏 My Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/tenaghirmb/tenaghirmb/output/github-contribution-grid-snake.svg)
 
 
