@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header
           plugins_errors_fatal: no
-          plugin_music: no
+          plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: playing
           plugin_music_token: "${{ secrets.SPOTIFY_TOKENS }}"
@@ -153,3 +153,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "docs: update AI system summary [skip ci]"
+          push_options: '--force'
