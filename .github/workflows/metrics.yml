@@ -22,8 +22,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          output_action: none
-          path: "."
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: tenaghirmb
           template: classic
           plugins_errors_fatal: no
@@ -58,6 +58,11 @@ jobs:
 
           config_order: base.header, isocalendar, wakatime, languages, habits, music
 
+      # 1.5. 关键：拉取刚才插件提交的图片
+      - name: Pull updated image
+        run: |
+          git pull origin main
+          
       # 2. 准备 Python 环境 (为了运行 Gemini 脚本)
       - name: Set up Python
         uses: actions/setup-python@v4
