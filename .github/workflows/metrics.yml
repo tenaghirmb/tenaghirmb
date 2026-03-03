@@ -23,6 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           output_action: none
+          path: "."
           user: tenaghirmb
           template: classic
           plugins_errors_fatal: no
