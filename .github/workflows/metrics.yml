@@ -11,11 +11,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      # 0. 先拿代码
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
       # 1. 生成 Metrics 图表 (Lowlighter)
       - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          output_action: none
           user: tenaghirmb
           template: classic
           plugins_errors_fatal: no
@@ -51,11 +58,6 @@ jobs:
           config_order: base.header, isocalendar, wakatime, languages, habits, music
 
       # 2. 准备 Python 环境 (为了运行 Gemini 脚本)
-      - name: Checkout repository
-        uses: actions/checkout@v5
-        with:
-          fetch-depth: 0  # 确保能读到之前的 commit 历史
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -151,4 +153,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "docs: update AI system summary [skip ci]"
+          file_pattern: 'README.md github-metrics.svg'
           push_options: '--force'
+          add_options: '--all'
