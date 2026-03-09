@@ -26,8 +26,11 @@
 ---
 
 ### 🛠️ Core Modules
+* ⚙️ [kube-cron-restart-controller](https://github.com/tenaghirmb/kube-cron-restart-controller) - Deterministic K8s workload orchestration with drift-aware scheduling.
+* 🤖 [kubectl-plugin](https://github.com/tenaghirmb/kubectl-plugin) - Extended CLI telemetry and streamlined cluster management utilities.
+* 🦾 [technical-arsenal](https://github.com/tenaghirmb/technical-arsenal) - Curated low-level technical primitives and system-level troubleshooting patterns.
 * 📁 [course-programs](https://github.com/tenaghirmb/course-programs) - Legacy logic blocks & academic foundations.
-* 🛰️ [other-project] - Active development node.
+* 🛰️ [other-project] - To be continued.
 
 ---
 
