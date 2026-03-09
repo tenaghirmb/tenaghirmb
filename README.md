@@ -30,7 +30,7 @@
 * 🤖 [kubectl-plugin](https://github.com/tenaghirmb/kubectl-plugin) - Extended CLI telemetry and streamlined cluster management utilities.
 * 🦾 [technical-arsenal](https://github.com/tenaghirmb/technical-arsenal) - Curated low-level technical primitives and system-level troubleshooting patterns.
 * 📁 [course-programs](https://github.com/tenaghirmb/course-programs) - Legacy logic blocks & academic foundations.
-* 🛰️ [other-project](https://github.com/tenaghirmb?tab=repositories) - To be continued.
+* 🛰️ [other projects](https://github.com/tenaghirmb?tab=repositories) - To be continued.
 
 ---
 
