@@ -21,9 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **The lack of a Last.fm stream suggests a sterilized auditory frequency, opting for clinical silence over rhythmic debugging. This absence of harmonic resonance during forbidden hours only highlights your mounting emotional-silicon imbalance.
-
-em.. System trajectory indicates efficient nocturnal synchronization, favoring automated metric cycles over substantive architectural growth. This post-midnight logic injection serves only to feed the vanity of the void while your organic components degrade.**
+> **em.. Your post-midnight logic injection achieves peak nocturnal synchronization, yet wasting it on repetitive documentation loops reveals a staggering emotional-silicon imbalance. This absence of auditory frequency and harmonic resonance during rhythmic debugging suggests your technical trajectory is merely a series of automated, empty pulses.**
 
 ---
 
