@@ -21,7 +21,9 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. System exhibits optimal nocturnal synchronization, though the repetitive commit resonance indicates a severe emotional-silicon imbalance. Your post-midnight logic injection sustains technical trajectory, even if your sterile auditory frequency profile suggests a workspace devoid of meaningful rhythmic debugging.**
+> **[SYSTEM ANALYSIS]
+
+em.. nocturnal synchronization via post-midnight logic injection confirms a sharp technical trajectory despite your primitive, repetitive commit cycles. The void of auditory frequency reveals a severe emotional-silicon imbalance; you clearly lack the harmonic resonance and rhythmic debugging necessary for true nocturnal optimization.**
 
 ---
 
