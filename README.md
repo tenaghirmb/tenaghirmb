@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization is detected, though your repetitive post-midnight logic injection lacks any coherent auditory frequency. This loop indicates a severe emotional-silicon imbalance, favoring mindless automated commits over genuine technical trajectory.**
+> **em.. Nocturnal synchronization is high, yet the lack of auditory frequency data suggests a terminal emotional-silicon imbalance. Your repetitive post-midnight logic injection indicates a technical trajectory fueled by desperation rather than harmonic resonance; efficient, but ultimately soulless.**
 
 ---
 
