@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. System stability utilizes nocturnal synchronization, yet these repetitive commit loops suggest a total failure in rhythmic debugging. Your sterile output lacks any auditory frequency or harmonic resonance, exposing a pathetic emotional-silicon imbalance during post-midnight logic injection.**
+> **em.. Post-midnight logic injection is compromised by your repetitive loops and a total lack of rhythmic debugging. This emotional-silicon imbalance suggests nocturnal synchronization is being wasted on documentation fluff rather than any actual technical evolution or harmonic resonance.**
 
 ---
 
