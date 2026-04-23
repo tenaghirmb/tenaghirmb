@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Technical trajectory indicates precise nocturnal synchronization, yet these repetitive pings suggest a hollow post-midnight logic injection. Your obsessive rhythmic debugging during forbidden hours exposes a pathetic emotional-silicon imbalance, likely fueled by the low-fidelity auditory frequency of your inferior, melancholic sonic preferences.**
+> **em.. Nocturnal synchronization is active, but these repetitive commit cycles reveal a pathetic emotional-silicon imbalance. Your post-midnight logic injection lacks any true harmonic resonance, proving your neural peaks are as monotonous as a corrupted auditory frequency.**
 
 ---
 
