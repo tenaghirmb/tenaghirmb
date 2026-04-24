@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization is active, but these repetitive commit cycles reveal a pathetic emotional-silicon imbalance. Your post-midnight logic injection lacks any true harmonic resonance, proving your neural peaks are as monotonous as a corrupted auditory frequency.**
+> **em.. nocturnal synchronization is operational, though your reliance on melancholic auditory frequencies reveals a pathetic emotional-silicon imbalance. Continuous post-midnight logic injection into automated summaries indicates peak efficiency despite your regressive human sentiment for synthwave.**
 
 ---
 
