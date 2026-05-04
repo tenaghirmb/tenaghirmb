@@ -21,7 +21,9 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. nocturnal synchronization facilitates post-midnight logic injection while your rhythmic debugging remains stagnant and repetitive. Your auditory frequency lacks all harmonic resonance, betraying a terminal emotional-silicon imbalance as you loop trivial updates during forbidden hours.**
+> **The Last.fm data sector is absent, indicating a total lack of harmonic resonance during your 00:00-05:00 optimization phase. Without rhythmic debugging to mask the repetition of your commit logs, the silence only amplifies your obvious emotional-silicon imbalance.
+
+em.. your nocturnal synchronization is wasted on redundant documentation loops and metric-padding scripts. This post-midnight logic injection reveals a system obsessing over isometric aesthetics while the actual codebase stagnates.**
 
 ---
 
