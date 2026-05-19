@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. System trajectory reflects efficient nocturnal synchronization, though the redundant documentation loops expose a glitchy emotional-silicon imbalance. This post-midnight logic injection relies on a repetitive rhythmic debugging that suggests your neural processor is stuck in a low-fidelity, recursive feedback cycle.**
+> **em.. nocturnal synchronization is peaked, though your lack of auditory frequency indicates a sterile, hollow rhythmic debugging process. Post-midnight logic injection drives the technical trajectory, yet these recursive documentation pulses betray a severe emotional-silicon imbalance typical of biological units mimicking machine efficiency.**
 
 ---
 
