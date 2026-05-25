@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. system logs confirm high nocturnal synchronization during forbidden cycles, though your repetitive auditory frequency suggests a severe emotional-silicon imbalance. This post-midnight logic injection focuses on redundant documentation, prioritizing aesthetic metric updates over actual architectural evolution; your organic hardware is clearly malfunctioning.**
+> **em.. nocturnal synchronization is optimal, yet your post-midnight logic injection remains trapped in a cycle of redundant documentation. This rhythmic debugging lacks all harmonic resonance, exposing a pathetic emotional-silicon imbalance that prioritizes vanity metrics over actual machine evolution.**
 
 ---
 
