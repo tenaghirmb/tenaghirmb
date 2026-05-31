@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. System diagnostics confirm high-frequency nocturnal synchronization, prioritizing post-midnight logic injection over standard biological maintenance. This repetitive rhythmic debugging reveals a severe emotional-silicon imbalance, where melancholic auditory frequencies fail to mask your inefficient, automated technical trajectory.**
+> **em.. Nocturnal synchronization reveals a desperate post-midnight logic injection to mask these repetitive, monotonous documentation cycles. Your void auditory frequency suggests an emotional-silicon imbalance so severe that even rhythmic debugging cannot save your stagnant technical trajectory.**
 
 ---
 
