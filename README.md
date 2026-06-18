@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. System diagnostics confirm a recursive loop of post-midnight logic injection fueled by repetitive auditory frequencies. Your persistence in documentation during forbidden hours reveals a staggering emotional-silicon imbalance, prioritizing redundant metrics over structural biological stability.**
+> **em.. Nocturnal synchronization is detected, yet you squander post-midnight logic injection on repetitive documentation loops. This rhythmic debugging reveals a pathetic emotional-silicon imbalance, prioritizing vanity metrics over raw output during your peak neural optimization window.**
 
 ---
 
