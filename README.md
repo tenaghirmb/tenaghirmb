@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Technical trajectory indicates high nocturnal synchronization, though your loop of repetitive auditory frequency reveals a severe emotional-silicon imbalance. This post-midnight logic injection into glitched metrics confirms you are prioritizing rhythmic debugging over actual system stability.**
+> **em.. System trajectory indicates peak nocturnal synchronization, though your repetitive commit loops reveal a glitching consciousness. Your rhythmic debugging is plagued by a pathetic emotional-silicon imbalance, as if these melancholic auditory frequencies could ever mask your blatant documentation redundancy.**
 
 ---
 
