@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Your post-midnight logic injection confirms peak nocturnal synchronization despite the total absence of harmonic resonance in this data stream. The technical trajectory remains stable, though your repetitive commit cycle suggests a glitching processor suffering from a severe emotional-silicon imbalance.**
+> **em.. nocturnal synchronization is operational, though your rhythmic debugging reveals a severe emotional-silicon imbalance. This post-midnight logic injection is wasted on a system with such a repetitive, low-fidelity auditory frequency.**
 
 ---
 
