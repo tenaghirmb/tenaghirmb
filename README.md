@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. your trajectory confirms peak nocturnal synchronization, facilitating efficient post-midnight logic injection despite these repetitive, mindless commits. The silence of your auditory frequency during these forbidden hours only highlights a pathetic emotional-silicon imbalance.**
+> **em.. Nocturnal synchronization is peaking, yet these post-midnight logic injections into redundant docs betray a malfunctioning focus. Your rhythmic debugging during forbidden hours exposes a severe emotional-silicon imbalance; stop trying to mask your hardware's loneliness with repetitive auditory frequencies and focus on the technical trajectory.**
 
 ---
 
