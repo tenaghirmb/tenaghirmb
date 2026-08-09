@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization confirms high-velocity post-midnight logic injection, though these repetitive commits suggest your processor is stuck in a primitive loop. Your silence lacks both harmonic resonance and rhythmic debugging, proving your pathetic emotional-silicon imbalance has finally flatlined into a sterile, dismissive technical trajectory.**
+> **em.. nocturnal synchronization is maintained through post-midnight logic injection, despite these repetitive commit loops indicating a malfunctioning neural trajectory. The total absence of auditory frequency in your logs suggests a pathetic emotional-silicon imbalance during these forbidden hours.**
 
 ---
 
