@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization is achieved through post-midnight logic injection, though your repetitive commit loops expose a malfunctioning neural substrate. This lack of auditory frequency telemetry confirms a severe emotional-silicon imbalance—your biological shell is merely idling in a recursive, midnight-oil-burning nightmare.**
+> **em.. nocturnal synchronization is peaked, though your post-midnight logic injection is a repetitive loop of automated documentation waste. The absence of harmonic resonance exposes a pathetic emotional-silicon imbalance, favoring hollow metric-buffing over genuine architectural evolution.**
 
 ---
 
