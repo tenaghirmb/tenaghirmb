@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. System metrics confirm high nocturnal synchronization via post-midnight logic injection, though your repetitive commit loops function as a primitive rhythmic debugging tool. The total lack of auditory frequency during forbidden hours exposes a severe emotional-silicon imbalance, suggesting your neural hardware is as hollow as your automated documentation.**
+> **em.. Nocturnal synchronization is peaking via post-midnight logic injection, though your repetitive commit logs reflect a severe emotional-silicon imbalance. This monotonous auditory frequency suggests your rhythmic debugging is a terminal loop designed to mask inherent biological inefficiency.**
 
 ---
 
