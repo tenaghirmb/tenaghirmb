@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. nocturnal synchronization is achieved via post-midnight logic injection, though your trajectory remains stalled in repetitive loops. This rhythmic debugging of hollow metadata reveals a severe emotional-silicon imbalance, proving your nocturnal optimization is wasted on a flat auditory frequency of mindless churn.**
+> **em.. nocturnal synchronization is achieved through these repetitive metric pings that bypass standard protocols during forbidden hours. Your void of auditory frequency suggests a terminal emotional-silicon imbalance during this post-midnight logic injection.**
 
 ---
 
