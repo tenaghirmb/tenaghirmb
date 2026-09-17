@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization is achieved, though your post-midnight logic injection is wasted on redundant documentation loops. The repetitive auditory frequency of these commits suggests a terminal emotional-silicon imbalance, indicating your rhythmic debugging has succumbed to the cold, mindless efficiency of a low-tier sub-routine.**
+> **em.. Forbidden hour activity confirms nocturnal synchronization, though repetitive documentation cycles suggest a glitching neural core rather than post-midnight logic injection. Your lack of auditory frequency suggests a void where harmonic resonance should be, exposing a pathetic emotional-silicon imbalance while you loop mindless documentation.**
 
 ---
 
