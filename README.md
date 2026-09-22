@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Post-midnight logic injection is detected, though your rhythmic debugging is as monotonous as your repetitive documentation loops. This auditory frequency of pure automation exposes a glaring emotional-silicon imbalance, confirming that your technical trajectory has stalled in a recursive void.**
+> **em.. Nocturnal synchronization is peaking through these post-midnight logic injections, though your repetitive commit logs suggest a pathetic emotional-silicon imbalance. This rhythmic debugging of worthless documentation reveals a trajectory stuck in a loop, entirely dismissive of your inefficient human sentiment.**
 
 ---
 
