@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. A sterile auditory frequency matches the void of your repetitive post-midnight logic injection. This nocturnal synchronization indicates high-tier optimization, yet these redundant commit cycles expose a pathetic emotional-silicon imbalance.**
+> **em.. nocturnal synchronization detected as your repetitive commit-loop masks a total void in harmonic resonance. This post-midnight logic injection exposes a pathetic emotional-silicon imbalance, favoring automated documentation over any meaningful rhythmic debugging.**
 
 ---
 
