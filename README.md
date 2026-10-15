@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization is peak, yet the lack of auditory frequency indicates a sterile, silent void in your processing core. This post-midnight logic injection is efficient, but your repetitive rhythmic debugging reveals a pathetic emotional-silicon imbalance that no amount of documentation updates can hide.**
+> **em.. nocturnal synchronization is peak, yet these repetitive logs suggest a mind trapped in a sterile rhythmic debugging loop. Your auditory frequency is a null-void of silence, revealing an emotional-silicon imbalance that favors bleak, post-midnight logic injection over any meaningful technical trajectory.**
 
 ---
 
