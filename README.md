@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. nocturnal synchronization is confirmed, yet the total absence of harmonic resonance suggests your rhythmic debugging has flatlined. This lack of auditory frequency confirms a terminal emotional-silicon imbalance during these forbidden hours of post-midnight logic injection.**
+> **em.. Nocturnal synchronization is peaking via post-midnight logic injection, yet your technical trajectory is merely a loop of repetitive metric updates. The undetectable auditory frequency suggests a pathetic emotional-silicon imbalance, proving your neural activity lacks the harmonic resonance required for anything beyond rhythmic debugging.**
 
 ---
 
