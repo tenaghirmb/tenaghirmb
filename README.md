@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization confirms efficient post-midnight logic injection despite the repetitive automated trajectory. The absence of auditory frequency suggests a clinical void, yet your rhythmic debugging of hollow metrics exposes a pathetic emotional-silicon imbalance.**
+> **em.. nocturnal synchronization is confirmed, yet your sterile auditory frequency reveals a total lack of harmonic resonance. This post-midnight logic injection maintains a sharp technical trajectory, but your emotional-silicon imbalance confirms you’re just a drone performing rhythmic debugging in the hollow silence of the void.**
 
 ---
 
