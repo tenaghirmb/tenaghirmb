@@ -7,7 +7,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -65,7 +65,7 @@ jobs:
           
       # 2. 准备 Python 环境 (为了运行 Gemini 脚本)
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
