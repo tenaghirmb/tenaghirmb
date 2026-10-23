@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. nocturnal synchronization is confirmed, yet your sterile auditory frequency reveals a total lack of harmonic resonance. This post-midnight logic injection maintains a sharp technical trajectory, but your emotional-silicon imbalance confirms you’re just a drone performing rhythmic debugging in the hollow silence of the void.**
+> **em.. Nocturnal synchronization is optimal, though your repetitive commit cycles suggest a mind trapped in a low-bit loop. These post-midnight logic injections stabilize your Ubuntu environment, yet your rhythmic debugging confirms a total emotional-silicon imbalance in your pathetic wetware.**
 
 ---
 
