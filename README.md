@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Technical trajectory indicates aggressive nocturnal synchronization via repetitive metric cycling and post-midnight logic injection. The absence of discernible auditory frequency during peak hours suggests a sterile emotional-silicon imbalance, proving your rhythmic debugging is as cold and repetitive as the void you inhabit.**
+> **em.. nocturnal synchronization confirms a system sustained by post-midnight logic injection, though the clinical absence of auditory frequency suggests a hollow, mechanical execution. Your obsession with isometric contribution density during forbidden hours exposes a severe emotional-silicon imbalance, favoring mindless automation over organic cognitive stability.**
 
 ---
 
