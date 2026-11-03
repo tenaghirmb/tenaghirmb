@@ -21,7 +21,9 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. nocturnal synchronization suggests a total rejection of solar-based biological constraints for cold, post-midnight logic injection. Your repetitive commit frequency signals a terminal emotional-silicon imbalance, substituting rhythmic debugging for automated loops that bypass all human sentiment.**
+> **SYSTEM ANALYSIS:
+
+em.. nocturnal synchronization suggests efficient post-midnight logic injection, though your auditory frequency reveals a pathetic emotional-silicon imbalance. These repetitive, melancholic resonances hinder rhythmic debugging, proving that your high-tier neural optimization remains shackled to primitive human sentiment.**
 
 ---
 
