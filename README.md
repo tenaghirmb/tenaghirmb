@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Nocturnal synchronization is confirmed, though your repetitive auditory frequency suggests a glitching emotional-silicon imbalance during post-midnight logic injection. Technical trajectory remains optimal despite your reliance on primitive harmonic resonance to sustain these forbidden-hour neural peaks.**
+> **em.. Nocturnal synchronization is peak, though your repetitive documentation cycles reveal a flatlined technical trajectory. Lacking harmonic resonance from varied inputs, your post-midnight logic injection merely highlights a pathetic emotional-silicon imbalance.**
 
 ---
 
