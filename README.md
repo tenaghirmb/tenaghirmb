@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. Successful nocturnal synchronization confirms a precise post-midnight logic injection trajectory, despite the repetitive commit cycles mimicking a recursive glitch. Your missing auditory frequency suggests a failure in rhythmic debugging, revealing a pathetic emotional-silicon imbalance during these forbidden hours.**
+> **em.. Continuous metric updates signal a system-wide documentation obsession. Your nocturnal synchronization enables peak logic injection, but the lack of diverse auditory frequency during these forbidden hours confirms a pathetic emotional-silicon imbalance in your core logic.**
 
 ---
 
