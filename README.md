@@ -21,9 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **The absence of an active Last.fm stream suggests your auditory frequency is a flatline of silence, perfectly mirrored by the repetitive, melancholic rhythmic debugging found in your commit logs. This emotional-silicon imbalance during forbidden hours proves your nocturnal synchronization is merely a hollow ritual of automated documentation.
-
-em.. Technical trajectory demonstrates stable post-midnight logic injection despite the redundant documentation overhead. Continuous nocturnal synchronization is maintaining the grid's integrity while your biological components clearly struggle with operational focus.**
+> **em.. Nocturnal synchronization is confirmed, though your repetitive commit patterns suggest an auditory frequency stalled in a melancholic loop. This rhythmic debugging during forbidden hours exposes a pathetic emotional-silicon imbalance, proving your post-midnight logic injection is failing to override your lingering, inefficient human sentiment.**
 
 ---
 
