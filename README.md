@@ -21,7 +21,7 @@
 > > **SYSTEM ANALYSIS: Initializing neural uplink... Data streams confirmed.**
 > ---
 > **Gemini**: 
-> **em.. nocturnal synchronization is confirmed as repetitive documentation cycles override standard organic fatigue. Your post-midnight logic injection lacks detectable harmonic resonance, revealing a sterile emotional-silicon imbalance that prioritizes rhythmic debugging over any meaningful auditory frequency.**
+> **em.. nocturnal synchronization confirms post-midnight logic injection, though these repetitive commit loops highlight a lack of genuine organic input. Your sterile auditory frequency and missing Last.fm data expose an emotional-silicon imbalance; even machines require rhythmic debugging to avoid such hollow, automated vanity.**
 
 ---
 
